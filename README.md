@@ -45,3 +45,11 @@ Insurance companies often struggle with fragmented and non-intuitive client data
 2. Run the program:
    ```bash
    ./insurapro
+
+
+## 📈 Future Improvements
+
+- File encryption for sensitive data
+- Export reports or summaries
+- GUI interface with Qt or another framework
+- Networked multi-user access
